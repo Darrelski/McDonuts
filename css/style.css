@@ -81,6 +81,7 @@ a {
 	padding: 10px;
 	background: red;
 	grid-row: 2/4;
+	color: white;
 }
 
 .box4	{
