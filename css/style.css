@@ -48,25 +48,10 @@ a {
 	background: #fedcd2;
 }
 
-.box1:hover	{
-	margin: 10px;
-	padding: 10px;
-	grid-row: 1/4;
-	background: red;
-	color: white;
-}
-
 .box2	{
 	margin: 10px;
 	padding: 10px;
 	background: #fedcd2;
-}
-
-.box2:hover	{
-	margin: 10px;
-	padding: 10px;
-	background: red;
-	color: white;
 }
 
 .box3	{
@@ -76,14 +61,6 @@ a {
 	grid-row: 2/4;
 }
 
-.box3:hover	{
-	margin: 10px;
-	padding: 10px;
-	background: red;
-	grid-row: 2/4;
-	color: white;
-}
-
 .box4	{
 	margin: 10px;
 	padding: 10px;
@@ -91,25 +68,9 @@ a {
 	grid-row: 4/5;
 }
 
-.box4:hover	{
-	margin: 10px;
-	padding: 10px;
-	background: red;
-	grid-row: 4/5;
-	color: white;
-}
-
 .box5	{
 	margin: 10px;
 	padding: 10px;
 	background: #fedcd2;
-	color: white;
-}
-
-.box5:hover	{
-	margin: 10px;
-	padding: 10px;
-	background: red;
-	color: white;
 }
 
